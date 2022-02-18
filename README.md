@@ -25,7 +25,7 @@ Here are some ideas to get you started:
         "pronouns" : "He/His", 
         "programingLanguages" : ["C#", "Dart", "Java", "JavaScript", "C++"],
         "databases" : ["Microsoft SQL", "MongoDB", "Redis"],
-        "frameworksAndLibraries" : [".NET", ".NET Framework", "FLutter", "Android", "JQuery", "API REST"],
+        "frameworksAndLibraries" : [".NET", ".NET Framework", "FLutter", "Android", "API REST", "JQuery"],
         "designPatterns" : ["Layered Architecture", "MVC", "BLoC", "Microservices"],
         "brokersAndQueues" : ["RabbitMQ", "Redis"],  
         "desingLanguagesAndTools" : ["HTML", "CSS", "Bootstrap", "CorelDraw"], 
