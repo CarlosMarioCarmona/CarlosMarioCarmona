@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+{
+    "Charly" : {
+        "pronouns" : "He/His", 
+        "programingLanguages" : ["C#", "Dart", "Java", "JavaScript", "C++"],
+        "databases" : ["Microsoft SQL", "MongoDB", "Redis"],
+        "frameworksAndLibraries" : [".NET", ".NET Framework", "FLutter", "JQuery"],
+        "designPatterns" : ["Layered Architecture", "MVC", "BLoC"],
+        "brokersAndQueues" : ["RabbitMQ", "Redis"],  
+        "desingLanguagesAndTools" : ["HTML", "CSS", "Bootstrap", "CorelDraw"], 
+        "programmingTools" : ["Visual Studio", "Visual Studio Code", "Android Studio" , "SQLServer Management Studio", "GitHub", "Docker"],
+        "controlVersions" : ["Microsoft DevOps", "GitHub"], 
+        "Cloud" : ["Microsoft Azure"],
+        "areas" : ["IT", "Manufacturing", "Electronics", "ERP", "Human Resources"]
+    }
+}
+```
