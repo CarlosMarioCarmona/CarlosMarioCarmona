@@ -25,8 +25,8 @@ Here are some ideas to get you started:
         "pronouns" : "He/His", 
         "programingLanguages" : ["C#", "Dart", "Java", "JavaScript", "C++"],
         "databases" : ["Microsoft SQL", "MongoDB", "Redis"],
-        "frameworksAndLibraries" : [".NET", ".NET Framework", "FLutter", "Android", "JQuery"],
-        "designPatterns" : ["Layered Architecture", "MVC", "BLoC"],
+        "frameworksAndLibraries" : [".NET", ".NET Framework", "FLutter", "Android", "JQuery", "API REST"],
+        "designPatterns" : ["Layered Architecture", "MVC", "BLoC", "Microservices"],
         "brokersAndQueues" : ["RabbitMQ", "Redis"],  
         "desingLanguagesAndTools" : ["HTML", "CSS", "Bootstrap", "CorelDraw"], 
         "programmingTools" : ["Visual Studio", "Visual Studio Code", "Android Studio" , "SQLServer Management Studio", "GitHub", "Docker"],
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 }
 ```
 
-- 🌱 I’m currently learning containerization 
+- 🌱 I’m currently learning containerization and microservices
 - 📫 You can also reach me on LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="carlos-mario-carmona-69a251179" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/carlos-mario-carmona-69a251179?trk=profile-badge">Carlos Mario Carmona</a></div>
 
 
