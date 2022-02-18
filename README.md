@@ -31,7 +31,7 @@ Here are some ideas to get you started:
         "desingLanguagesAndTools" : ["HTML", "CSS", "Bootstrap", "CorelDraw"], 
         "programmingTools" : ["Visual Studio", "Visual Studio Code", "Android Studio" , "SQLServer Management Studio", "GitHub", "Docker"],
         "controlVersions" : ["Microsoft DevOps", "GitHub"], 
-        "Cloud" : ["Microsoft Azure"],
+        "cloud" : ["Microsoft Azure"],
         "areas" : ["IT", "Manufacturing", "Electronics", "ERP", "Human Resources"]
     }
 }
