@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ```
 {
-    "Charly" : {
+    "Carlos" : {
         "pronouns" : "He/His", 
         "programingLanguages" : ["C#", "Dart", "Java", "JavaScript", "C++"],
         "databases" : ["Microsoft SQL", "MongoDB", "Redis"],
